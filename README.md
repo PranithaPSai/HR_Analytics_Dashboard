@@ -2,7 +2,7 @@
 This repository contains an interactive HR Analytics Dashboard built using Tableau to analyze employee data, track workforce metrics, and uncover insights related to attrition, performance, demographics, and organizational health.The project demonstrates the use of Tableau for HR-focused decision-making, workforce planning, and KPI visualization.
 
 ## Dashboard
-![Dashboard Preview](ttps://github.com/PranithaPSai/HR_Analytics_Dashboard/blob/main/Snapshot%20of%20dashboard.png)
+![Dashboard Preview](https://github.com/PranithaPSai/HR_Analytics_Dashboard/blob/main/Snapshot%20of%20dashboard.png)
 
 ## Project Overview
 The goal of this project is to analyze key HR metrics and visualize patterns that impact workforce stability and employee performance.The dashboard provides a comprehensive view of employee distribution, attrition trends, satisfaction levels, and demographic insights.This project highlights my ability to clean HR datasets, create meaningful calculated fields, build analytical visuals, and design a clean, interactive Tableau dashboard tailored for HR teams and business leaders.
