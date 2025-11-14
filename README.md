@@ -20,3 +20,10 @@ The goal of this project is to analyze key HR metrics and visualize patterns tha
 
 *Clean UI Design: Professional formatting, color consistency, intuitive layout, and user-friendly navigation
 
+## Tech Stack
+
+Visualization Tool-Tableau Desktop
+Data Source-HR Employee Dataset (Excel)
+Calculations-Tableau Calculated Fields
+Design Elements-Filters, Parameters, Formatting, UI Layout
+
